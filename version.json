@@ -1,0 +1,12 @@
+{
+  "version": "2.1.0",
+  "notes": "La evaluacion de cada asignatura se puede corregir desde Notas: nombre y peso de cada prueba, anadir o quitar pruebas, con la suma a la vista.",
+  "min_runtime": "2.0.0",
+  "code": {
+    "url": "https://github.com/josepeyra/organizador-universidad-releases/releases/download/v2.1.0/organizador-universidad-2.1.0-code.zip",
+    "sha256": "ca5aa45378c84351385289fda7d5eceab59e415ed0c519c1d1c5a84245dea30f"
+  },
+  "installers": {
+    "windows": "https://github.com/josepeyra/organizador-universidad-releases/releases/tag/v2.1.0"
+  }
+}
