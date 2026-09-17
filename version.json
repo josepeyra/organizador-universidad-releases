@@ -1,12 +1,12 @@
 {
-  "version": "2.2.1",
-  "notes": "Evaluacion del cuatrimestre 7 corregida con lo publicado en Atenea: COE sin examenes (reto por equipos), ED con fechas de practicas y examen de laboratorio, FT con seminarios desglosados, CTMA con fechas de examen.",
+  "version": "2.3.0",
+  "notes": "Las fechas de Atenea pasan solas a Entregas; Material con Mis archivos (carpetas propias) y buscador; A que hora salir en Semana; el horario se arrastra y admite versiones para las semanas A o B; sincronizacion diaria a las 8:00.",
   "min_runtime": "2.0.0",
   "code": {
-    "url": "https://github.com/josepeyra/organizador-universidad-releases/releases/download/v2.2.1/organizador-universidad-2.2.1-code.zip",
-    "sha256": "690b9034f99b822f0747bfb5c65d788a03b99d4bdb72aa2a0f6d4c04345f03e1"
+    "url": "https://github.com/josepeyra/organizador-universidad-releases/releases/download/v2.3.0/organizador-universidad-2.3.0-code.zip",
+    "sha256": "10c618bd7da19b82c08c71a495318b4ea41cc62dfd984aa4ba2eac99fd9ac317"
   },
   "installers": {
-    "windows": "https://github.com/josepeyra/organizador-universidad-releases/releases/tag/v2.2.1"
+    "windows": "https://github.com/josepeyra/organizador-universidad-releases/releases/tag/v2.3.0"
   }
 }
