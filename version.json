@@ -1,12 +1,12 @@
 {
-  "version": "2.3.0",
-  "notes": "Las fechas de Atenea pasan solas a Entregas; Material con Mis archivos (carpetas propias) y buscador; A que hora salir en Semana; el horario se arrastra y admite versiones para las semanas A o B; sincronizacion diaria a las 8:00.",
+  "version": "2.3.1",
+  "notes": "Entregas escritas a mano, sueltas o repetidas cada semana (o solo semanas A/B), con editar y borrar; el buscador de Material pasa a la asignatura abierta, encima del indice, y busca en Atenea y en Mis archivos.",
   "min_runtime": "2.0.0",
   "code": {
-    "url": "https://github.com/josepeyra/organizador-universidad-releases/releases/download/v2.3.0/organizador-universidad-2.3.0-code.zip",
-    "sha256": "10c618bd7da19b82c08c71a495318b4ea41cc62dfd984aa4ba2eac99fd9ac317"
+    "url": "https://github.com/josepeyra/organizador-universidad-releases/releases/download/v2.3.1/organizador-universidad-2.3.1-code.zip",
+    "sha256": "1435f50f861bb1d1a29f3daa8d210a948812d517de0ac7c6077ad3ae86e60c2f"
   },
   "installers": {
-    "windows": "https://github.com/josepeyra/organizador-universidad-releases/releases/tag/v2.3.0"
+    "windows": "https://github.com/josepeyra/organizador-universidad-releases/releases/tag/v2.3.1"
   }
 }
