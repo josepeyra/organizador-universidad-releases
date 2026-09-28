@@ -1,12 +1,12 @@
 {
-  "version": "2.4.0",
-  "notes": "Recordatorios de entregas por correo y con Google Calendar; boton Refrescar en Material",
+  "version": "2.4.1",
+  "notes": "Los recordatorios preguntan a Atenea si la entrega ya esta hecha y, al vencer, mandan un solo aviso",
   "min_runtime": "2.0.0",
   "code": {
-    "url": "https://github.com/josepeyra/organizador-universidad-releases/releases/download/v2.4.0/organizador-universidad-2.4.0-code.zip",
-    "sha256": "267e42b5ddd9f9683e81a3660edbdb26fd6d5c342de5fb478520de92f8a34606"
+    "url": "https://github.com/josepeyra/organizador-universidad-releases/releases/download/v2.4.1/organizador-universidad-2.4.1-code.zip",
+    "sha256": "e3dd647cfb82411fce0789587bfa18238cee5f3948f1b1bafd0877c65ac39453"
   },
   "installers": {
-    "windows": "https://github.com/josepeyra/organizador-universidad-releases/releases/tag/v2.4.0"
+    "windows": "https://github.com/josepeyra/organizador-universidad-releases/releases/tag/v2.4.1"
   }
 }
