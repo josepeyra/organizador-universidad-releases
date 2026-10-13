@@ -1,12 +1,12 @@
 {
-  "version": "2.4.2",
-  "notes": "Las entregas de Atenea de otros grupos de la asignatura ya no salen en Entregas, Semana, recordatorios ni Calendar.",
+  "version": "2.5.0",
+  "notes": "Los avisos de entregas los manda GitHub, también con el PC apagado. Nuevo botón ↻ Refrescar para reiniciar la app.",
   "min_runtime": "2.0.0",
   "code": {
-    "url": "https://github.com/josepeyra/organizador-universidad-releases/releases/download/v2.4.2/organizador-universidad-2.4.2-code.zip",
-    "sha256": "972bc542c33e0267dd6067fd4ddf0a5a9e4e45a81125e3aff1b28464ae0de0f1"
+    "url": "https://github.com/josepeyra/organizador-universidad-releases/releases/download/v2.5.0/organizador-universidad-2.5.0-code.zip",
+    "sha256": "5b17b075aea2a472e4615a21c7cd476f188cf81dbcc73230f37d118e08f6fcf6"
   },
   "installers": {
-    "windows": "https://github.com/josepeyra/organizador-universidad-releases/releases/tag/v2.4.2"
+    "windows": "https://github.com/josepeyra/organizador-universidad-releases/releases/tag/v2.5.0"
   }
 }
