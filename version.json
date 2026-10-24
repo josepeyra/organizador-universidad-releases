@@ -1,12 +1,12 @@
 {
-  "version": "2.6.0",
-  "notes": "Cada franja de la semana puede llevar un plan detallado (que estudiar, ejercicios y tiempos) que se abre al tocarla, con casillas para marcar lo hecho.",
+  "version": "2.7.0",
+  "notes": "Cuenta atrás en días y horas hasta cada examen, arriba de la semana.",
   "min_runtime": "2.0.0",
   "code": {
-    "url": "https://github.com/josepeyra/organizador-universidad-releases/releases/download/v2.6.0/organizador-universidad-2.6.0-code.zip",
-    "sha256": "946b59bafc9e0488fb0120f76d46bad2fcc3da2ee1388db5c942fb71a4a71923"
+    "url": "https://github.com/josepeyra/organizador-universidad-releases/releases/download/v2.7.0/organizador-universidad-2.7.0-code.zip",
+    "sha256": "11bdc10e57f5cb97e04b073240f44714a5b73cc0a033fd5804210221c49c3543"
   },
   "installers": {
-    "windows": "https://github.com/josepeyra/organizador-universidad-releases/releases/tag/v2.6.0"
+    "windows": "https://github.com/josepeyra/organizador-universidad-releases/releases/tag/v2.7.0"
   }
 }
