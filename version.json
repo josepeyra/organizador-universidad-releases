@@ -1,12 +1,12 @@
 {
-  "version": "2.7.1",
-  "notes": "Las notas se escriben de corrido: el campo ya no se bloquea tras la primera cifra y la nota se guarda al salir del campo (clic fuera, Tab o Intro).",
-  "min_runtime": "2.0.0",
+  "version": "2.8.0",
+  "notes": "Los datos pasan a Neon y se consultan desde el móvil en organizador-universidad.vercel.app: horario con aulas, entregas y notas. Necesita reinstalar con el instalador completo.",
+  "min_runtime": "2.8.0",
   "code": {
-    "url": "https://github.com/josepeyra/organizador-universidad-releases/releases/download/v2.7.1/organizador-universidad-2.7.1-code.zip",
-    "sha256": "06b61ec4ddfa56a7b9a93a15c12a8fac518dfe27e052bad16b56399f57a8c7d4"
+    "url": "https://github.com/josepeyra/organizador-universidad-releases/releases/download/v2.8.0/organizador-universidad-2.8.0-code.zip",
+    "sha256": "450a9e485e1d7b0754edddccd415e4a5f1dfb8b444368ba9ed0aab670c724cd9"
   },
   "installers": {
-    "windows": "https://github.com/josepeyra/organizador-universidad-releases/releases/tag/v2.7.1"
+    "windows": "https://github.com/josepeyra/organizador-universidad-releases/releases/tag/v2.8.0"
   }
 }
